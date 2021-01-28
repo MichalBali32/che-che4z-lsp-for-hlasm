@@ -5,7 +5,7 @@
 <a href="https://sonarcloud.io/dashboard?id=eclipse_che-che4z-lsp-for-hlasm">
 <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" width="94" height="20" href="" />
 </a>
-
+ 
 HLASM Language Support is an extension for [Visual Studio Code](https://code.visualstudio.com/) (and [Theia](https://theia-ide.org/)) that adds support for the High Level Assembler language. It provides code completion, highlighting and navigation features, detects common mistakes in the source, and lets you trace the evaluation of the conditional assembly source code, using a modern debugging interface.
 
 The extension is available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=broadcomMFD.hlasm-language-support). You can install it in a standard way from within the Visual Studio Code.
