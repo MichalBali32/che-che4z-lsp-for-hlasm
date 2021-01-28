@@ -48,5 +48,5 @@ The extension adds the 'go to definition' and 'find all references' functionalit
 The macro tracer functionality allows you to track the process of assembling HLASM code. It lets you see step-by-step how macros are expanded and displays values of variable symbols at different points during the assembly process. You can also set breakpoints in problematic sections of your conditional assembly code. 
 
 The macro tracer is not a debugger. It cannot debug running executables, only track the compilation process.
-
+ 
 ![](clients/vscode-hlasmplugin/readme_res/tracer.gif)
